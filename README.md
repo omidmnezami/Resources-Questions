@@ -24,3 +24,9 @@ http://www.cs.jhu.edu/~jason/465/
 
 ### Natural Language Processing with Deep Learning Unit of Stanford University (2020)
 https://web.stanford.edu/class/cs224n/
+
+### Standford Exams
+https://github.com/s-ai-kia/CS230_DL
+
+### Coursera Exam
+https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning
