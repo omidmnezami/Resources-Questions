@@ -6,6 +6,11 @@ https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pag
 ### Interview Questions and Answers:
 https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D
 
+https://intellipaat.com/blog/interview-question/nlp-interview-questions/
+
+https://www.mygreatlearning.com/blog/nlp-interview-questions/   (2021) ***
+
+
 ### Data Science Resources
 https://github.com/Shujian2015/FreeML
 
@@ -26,7 +31,7 @@ http://www.cs.jhu.edu/~jason/465/
 https://web.stanford.edu/class/cs224n/
 
 ### Standford Exams
-https://github.com/s-ai-kia/CS230_DL
+https://github.com/s-ai-kia/CS230_DL    ***
 
 ### Coursera Exam
 https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning
