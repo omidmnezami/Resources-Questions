@@ -12,6 +12,8 @@ https://www.edureka.co/blog/interview-questions/artificial-intelligence-intervie
 
 https://www.mygreatlearning.com/blog/nlp-interview-questions/   (2021) ***
 
+https://www.topbots.com/nlp-interview-questions/ ***
+
 
 ### Data Science Resources
 https://github.com/Shujian2015/FreeML
