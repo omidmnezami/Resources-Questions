@@ -8,6 +8,8 @@ https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B
 
 https://intellipaat.com/blog/interview-question/nlp-interview-questions/
 
+https://www.edureka.co/blog/interview-questions/artificial-intelligence-interview-questions/
+
 https://www.mygreatlearning.com/blog/nlp-interview-questions/   (2021) ***
 
 
