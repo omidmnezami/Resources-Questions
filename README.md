@@ -31,7 +31,7 @@ http://www.cs.jhu.edu/~jason/465/
 https://web.stanford.edu/class/cs224n/
 
 ### Standford Exams
-https://github.com/s-ai-kia/CS230_DL    ***
+https://github.com/s-ai-kia/CS230_DL    (2018) ***
 
 ### Coursera Exam
-https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning
+https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning ***
