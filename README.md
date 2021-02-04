@@ -49,3 +49,6 @@ https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Le
 ### CheatSheet
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 
+### BERT, RoBERTa, DistilBERT, XLNet: Which one to use?
+https://www.kdnuggets.com/2019/09/bert-roberta-distilbert-xlnet-one-use.html   ***
+
