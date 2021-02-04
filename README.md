@@ -41,3 +41,7 @@ https://github.com/s-ai-kia/CS230_DL    (2018) ***
 
 ### Coursera Exam
 https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning ***
+
+### CheatSheet
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
+
