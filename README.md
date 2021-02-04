@@ -12,6 +12,8 @@ https://www.edureka.co/blog/interview-questions/artificial-intelligence-intervie
 
 https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
 
+https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+
 https://www.mygreatlearning.com/blog/nlp-interview-questions/   (2021) ***
 
 https://www.topbots.com/nlp-interview-questions/ ***
