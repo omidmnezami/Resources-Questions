@@ -26,6 +26,8 @@ https://medium.com/@bruceyanghy/nlp-and-deep-learning-all-in-one-part-iii-transf
 
 https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/ ***
 
+https://www.mygreatlearning.com/blog/machine-learning-interview-questions/   (general ML)
+
 
 
 ### Data Science Resources
