@@ -20,6 +20,8 @@ https://www.topbots.com/nlp-interview-questions/ ***
 
 https://medium.com/@bruceyanghy/nlp-and-deep-learning-all-in-one-part-iii-transformer-bert-and-xlnet-c090d7fc7982  (2020- w/o answers) ***
 
+https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/ ***
+
 
 ### Data Science Resources
 https://github.com/Shujian2015/FreeML
