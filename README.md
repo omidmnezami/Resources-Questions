@@ -16,6 +16,8 @@ https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
 
 https://www.onlineinterviewquestions.com/nlp-interview-questions/
 
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions
+
 https://www.mygreatlearning.com/blog/nlp-interview-questions/   (2021) ***
 
 https://www.topbots.com/nlp-interview-questions/ ***
@@ -23,6 +25,7 @@ https://www.topbots.com/nlp-interview-questions/ ***
 https://medium.com/@bruceyanghy/nlp-and-deep-learning-all-in-one-part-iii-transformer-bert-and-xlnet-c090d7fc7982  (2020- w/o answers) ***
 
 https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/ ***
+
 
 
 ### Data Science Resources
