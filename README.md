@@ -34,10 +34,10 @@ http://demo.clab.cs.cmu.edu/11711fa19/
 
 ### Deep Learning of Coursera
 https://github.com/Kulbear/deep-learning-coursera
+https://github.com/HeroKillerEver/coursera-deep-learning
 
 ### Deep Learning Book
 https://www.deeplearningbook.org/  ***
-https://github.com/HeroKillerEver/coursera-deep-learning
 
 ### Natural Language Processing Unit of Johns Hopkins University (2020)
 http://www.cs.jhu.edu/~jason/465/
