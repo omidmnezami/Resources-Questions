@@ -28,6 +28,8 @@ https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning
 
 https://www.mygreatlearning.com/blog/machine-learning-interview-questions/   (general ML)
 
+https://helpdice.com/mcq/home/Natural%20Language%20Processing/  (good questions in different domains) ***
+
 
 
 ### Data Science Resources
