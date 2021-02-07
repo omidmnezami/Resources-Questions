@@ -3,7 +3,7 @@
 ### RL in Brief
 https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html
 
-### Questions & Answers on Stackoverflow:
+### Questions & Answers on Stackoverflow
 https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pagesize=15
 
 ### Standford Exams
@@ -21,7 +21,7 @@ https://github.com/maxim5/cs224n-2017-winter
 
 https://github.com/hankcs/CS224n/tree/master/assignment2
 
-### Interview Questions and Answers:
+### Interview Questions and Answers
 
 https://www.javatpoint.com/deep-learning-interview-questions ***
 
