@@ -1,5 +1,8 @@
 # Resources-Questions in AI, ML, NLP, CV and DL
 
+### RL in Brief
+https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html
+
 ### Questions & Answers on Stackoverflow:
 https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pagesize=15
 
