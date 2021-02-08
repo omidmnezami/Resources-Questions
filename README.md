@@ -11,7 +11,7 @@ https://github.com/s-ai-kia/CS230_DL    (2018) ***
 
 https://github.com/chenyjc/MachineLearningExam   (w/o answers)
 
-https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford
+https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford  ***
 
 https://github.com/LiMengyang990726/Coursera-Machine-Learning
 
