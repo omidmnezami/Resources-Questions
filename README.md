@@ -6,36 +6,6 @@ https://ai.googleblog.com/
 ### Questions & Answers on Stackoverflow
 https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pagesize=15
 
-### Interview Questions and Answers
-
-https://www.javatpoint.com/deep-learning-interview-questions 
-
-https://www.mygreatlearning.com/blog/nlp-interview-questions/   (2021)
-
-https://www.topbots.com/nlp-interview-questions/ 
-
-https://medium.com/@bruceyanghy/nlp-and-deep-learning-all-in-one-part-iii-transformer-bert-and-xlnet-c090d7fc7982  (2020 - w/o answers) 
-
-https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/ 
-
-https://www.mygreatlearning.com/blog/machine-learning-interview-questions/   
-
-https://helpdice.com/mcq/home/Natural%20Language%20Processing/ 
-
-https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D
-
-https://intellipaat.com/blog/interview-question/nlp-interview-questions/
-
-https://www.edureka.co/blog/interview-questions/artificial-intelligence-interview-questions/
-
-https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
-
-https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
-
-https://www.onlineinterviewquestions.com/nlp-interview-questions/
-
-https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions
-
 ### Deep Learning of Coursera
 https://github.com/Kulbear/deep-learning-coursera
 https://github.com/HeroKillerEver/coursera-deep-learning
@@ -84,4 +54,34 @@ https://web.stanford.edu/class/cs224n/
 
 ### Coursera Exam
 https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning
+
+### Interview Questions and Answers
+
+https://www.javatpoint.com/deep-learning-interview-questions 
+
+https://www.mygreatlearning.com/blog/nlp-interview-questions/   (2021)
+
+https://www.topbots.com/nlp-interview-questions/ 
+
+https://medium.com/@bruceyanghy/nlp-and-deep-learning-all-in-one-part-iii-transformer-bert-and-xlnet-c090d7fc7982  (2020 - w/o answers) 
+
+https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/ 
+
+https://www.mygreatlearning.com/blog/machine-learning-interview-questions/   
+
+https://helpdice.com/mcq/home/Natural%20Language%20Processing/ 
+
+https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D
+
+https://intellipaat.com/blog/interview-question/nlp-interview-questions/
+
+https://www.edureka.co/blog/interview-questions/artificial-intelligence-interview-questions/
+
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
+
+https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+
+https://www.onlineinterviewquestions.com/nlp-interview-questions/
+
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions
 
