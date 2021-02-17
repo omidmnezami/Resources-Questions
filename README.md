@@ -1,5 +1,8 @@
 # Resources & Questions in AI, ML, NLP, CV and DL
 
+### Blogs
+https://ai.googleblog.com/
+
 ### Questions & Answers on Stackoverflow
 https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pagesize=15
 
