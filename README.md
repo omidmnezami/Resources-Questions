@@ -2,6 +2,7 @@
 
 ### Blogs
 https://ai.googleblog.com/
+
 https://deepmind.com/blog
 
 ### Questions & Answers on Stackoverflow
@@ -9,6 +10,7 @@ https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pag
 
 ### Deep Learning of Coursera
 https://github.com/Kulbear/deep-learning-coursera
+
 https://github.com/HeroKillerEver/coursera-deep-learning
 
 ### Deep Learning Book
