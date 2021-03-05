@@ -2,6 +2,7 @@
 
 ### Blogs
 https://ai.googleblog.com/
+https://deepmind.com/blog
 
 ### Questions & Answers on Stackoverflow
 https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pagesize=15
