@@ -1,5 +1,39 @@
 # Resources & Questions in AI, ML, NLP, CV and DL
 
+
+# General Selected Papers
+
+ECCV 2020: [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/pdf/2001.05027.pdf)
+
+ICML 2020: [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)
+
+
+# Gendered Correlations:
+
+[Zari Model checkpoints](https://github.com/google-research-datasets/zari)
+
+[Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)
+
+
+# Selected Papers from ICLR 2021:
+
+[Autoregressive Entity Retrieval](https://arxiv.org/pdf/2010.00904.pdf)
+
+[Rethinking attention with performers](https://arxiv.org/pdf/2009.14794.pdf)
+
+[Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data](https://arxiv.org/pdf/2010.03622.pdf)
+
+[A Distributional Approach to Controlled Text Generation](https://arxiv.org/pdf/2012.11635.pdf)
+
+[Active Contrastive Learning of Audio-Visual Video Representations](https://openreview.net/forum?id=OMizHuea_HB)
+
+[Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation](https://openreview.net/forum?id=uR9LaO_QxF)
+
+[Contextual Dropout: An Efficient Sample-Dependent Dropout Module](https://openreview.net/forum?id=ct8_a9h1M)
+
+[Dual-mode ASR: Unify and Improve Streaming ASR with Full-context Modeling](https://openreview.net/forum?id=Pz_dcqfcKW8)
+
+
 ### Blogs
 https://ai.googleblog.com/
 
