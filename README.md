@@ -1,21 +1,21 @@
-# Resources & Questions in AI, ML, NLP, CV and DL
+## Resources & Questions in AI, ML, NLP, CV and DL
 
 
-# General Selected Papers
+### General Selected Papers
 
 ECCV 2020: [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/pdf/2001.05027.pdf)
 
 ICML 2020: [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)
 
 
-# Gendered Correlations:
+### Gendered Correlations:
 
 [Zari Model checkpoints](https://github.com/google-research-datasets/zari)
 
 [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)
 
 
-# Selected Papers from ICLR 2021:
+### Selected Papers from ICLR 2021:
 
 [Autoregressive Entity Retrieval](https://arxiv.org/pdf/2010.00904.pdf)
 
