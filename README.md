@@ -1,5 +1,14 @@
 ## Resources & Questions in AI, ML, NLP, CV and DL
 
+### Blogs
+https://ai.googleblog.com/
+
+https://deepmind.com/blog
+
+https://huggingface.co/blog
+
+https://ai.facebook.com/blog/
+
 
 ### General Selected Papers
 
@@ -32,14 +41,6 @@ ICML 2020: [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxi
 [Contextual Dropout: An Efficient Sample-Dependent Dropout Module](https://openreview.net/forum?id=ct8_a9h1M)
 
 [Dual-mode ASR: Unify and Improve Streaming ASR with Full-context Modeling](https://openreview.net/forum?id=Pz_dcqfcKW8)
-
-
-### Blogs
-https://ai.googleblog.com/
-
-https://deepmind.com/blog
-
-https://huggingface.co/blog
 
 ### Questions & Answers on Stackoverflow
 https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pagesize=15
