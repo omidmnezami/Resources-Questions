@@ -12,9 +12,9 @@ https://ai.facebook.com/blog/
 
 ### General Selected Papers
 
-ECCV 2020: [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/pdf/2001.05027.pdf)
+[Unifying Deep Local and Global Features for Image Search](https://arxiv.org/pdf/2001.05027.pdf)
 
-ICML 2020: [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)
+REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)
 
 
 ### Gendered Correlations:
