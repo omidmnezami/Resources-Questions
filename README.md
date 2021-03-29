@@ -12,19 +12,17 @@ https://ai.facebook.com/blog/
 
 ### General Selected Papers
 
+[Routing Transformers](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00353/97776/Efficient-Content-Based-Sparse-Attention-with)
+
+[Performaers](https://arxiv.org/pdf/2009.14794.pdf)
+
+[ELECTRA](https://arxiv.org/pdf/2003.10555.pdf)
+
+[Reformer](https://arxiv.org/pdf/2001.04451.pdf)
+
 [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/pdf/2001.05027.pdf)
 
 [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)
-
-
-### Gendered Correlations:
-
-[Zari Model checkpoints](https://github.com/google-research-datasets/zari)
-
-[Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)
-
-
-### Selected Papers from ICLR 2021:
 
 [Autoregressive Entity Retrieval](https://arxiv.org/pdf/2010.00904.pdf)
 
@@ -41,6 +39,12 @@ https://ai.facebook.com/blog/
 [Contextual Dropout: An Efficient Sample-Dependent Dropout Module](https://openreview.net/forum?id=ct8_a9h1M)
 
 [Dual-mode ASR: Unify and Improve Streaming ASR with Full-context Modeling](https://openreview.net/forum?id=Pz_dcqfcKW8)
+
+### Gendered Correlations:
+
+[Zari Model checkpoints](https://github.com/google-research-datasets/zari)
+
+[Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)
 
 ### Questions & Answers on Stackoverflow
 https://stackoverflow.com/questions/tagged/machine-learning?tab=votes&page=2&pagesize=15
